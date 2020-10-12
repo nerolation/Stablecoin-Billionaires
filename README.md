@@ -35,6 +35,10 @@ Basically, the code is split into 5 separate python scripts, all created in Jupy
 ##### Furthermore there are seven scripts incorporating the individual tokens analyzed. These are Tether USD, USD Coin, DAI Stablecoin, Paxos Standard, TrueUSD, HUSD and Binance USD. They include both, desprivtive statistics and the creation of charts.
 
 <br>
+
+##### Note that out of storage limitations on Github, this reposirtory doesn't contain the raw event data used for the analysis. Furthermore the files containing data about balances were to large to upload. Contact [me](https://toniwahrstaetter.com/) for the complete data set. 
+
+
 <br>
 
-#### Innsbruck, at 1. Oct 2020
+#### Innsbruck, at 1. Oct 2020, Anton Wahrstätter
