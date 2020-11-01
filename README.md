@@ -36,7 +36,7 @@ Basically, the code is split into 5 separate python scripts, all created in Jupy
 
 <br>
 
-##### Note that out of storage limitations on Github, this reposirtory doesn't contain the raw event data used for the analysis. Furthermore the files containing data about balances were to large to upload. Contact [me](https://toniwahrstaetter.com/stablecoin_data.html) for the complete data set. 
+##### Note that out of storage limitations on Github, this reposirtory doesn't contain the raw event data used for the analysis. Furthermore the files containing data about balances were to large to upload. [Click here](https://toniwahrstaetter.com/stablecoin_data.html) for the complete data set. 
 
 
 Finally, due to time constraints, I did not optimize the analysis scripts to be fast and memory-efficient. The machine I was using had 24 GB of Ram, which was barely enough to handle the scripts in one execution. There is still much room for improvement, but unfortunately I am not able to do so at present.
