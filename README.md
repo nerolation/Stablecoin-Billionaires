@@ -1,7 +1,7 @@
 # Stablecoin Billionairs
 ### Python Code of the Master Thesis by Anton Wahrstätter 
 
-This is the official repository, which was created to descriptively analyze the Ethereum-based Stablecoin ecosystem in my [master thesis](https://toniwahrstaetter.com/stablecoins/?internal=true). Alongside the paper, I publish the Python code used to examine Event data of specific Tokens.
+This is the official repository, which was created to descriptively analyze the Ethereum-based Stablecoin ecosystem in my [master thesis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737404). Alongside the paper, I publish the Python code used to examine Event data of specific Tokens.
 
 Basically, the code is split into 5 separate python scripts, all created in Jupyter:
 
@@ -44,4 +44,4 @@ Finally, due to time constraints, I did not optimize the analysis scripts to be 
 
 <br>
 
-#### Innsbruck, at 1. Oct 2020, Anton Wahrstätter
+#### Innsbruck, at 1. Oct 2020, [Anton Wahrstätter](https://toniwahrstaetter.com/)
