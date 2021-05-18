@@ -1,6 +1,9 @@
 # Stablecoin Billionairs
 ### Python Code of the Master Thesis by Anton Wahrstätter 
 
+###### The code of this repo was continously improved and moved to [this space](https://github.com/Nerolation/ethereum-datafarm). Use it to collect your own data instead of the notebooks of this repo.
+
+
 This is the official repository, which was created to descriptively analyze the Ethereum-based Stablecoin ecosystem in my [master thesis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3737404). Alongside the paper, I publish the Python code used to examine Event data of specific Tokens.
 
 Basically, the code is split into 5 separate python scripts, all created in Jupyter:
